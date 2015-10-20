@@ -1,2 +1,2 @@
 # ts_bot_config
-Test
+Test 2
